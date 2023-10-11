@@ -10,7 +10,7 @@ renamed as (
 
     select
         id as lead_id,
-        contact_id,
+        contact_id as lead_contact_id,
         first_name,
         last_name,
         company,
