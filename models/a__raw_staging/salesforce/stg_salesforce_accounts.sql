@@ -75,7 +75,8 @@ renamed as (
         slaexpiration_date_c,
         deleted_datetimestamp,
         created_datetimestamp,
-        modified_datetimestamp
+        modified_datetimestamp, 
+        'dummy' as new_column
 
     from source
 
