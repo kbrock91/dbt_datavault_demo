@@ -34,7 +34,7 @@ renamed as (
         phone,
         fax,
         account_number,
-        website,
+        website as company_website,
         photo_url,
         sic,
         industry,
